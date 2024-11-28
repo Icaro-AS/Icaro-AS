@@ -30,7 +30,7 @@ Descrição breve do projeto, como objetivos e impacto.
 🔹 [**Nome do Projeto 3**](#)  
 Descrição breve do projeto, como objetivos e impacto.  
 -->
----
+
 
 ## 🌱 O que estou aprendendo agora?
 
