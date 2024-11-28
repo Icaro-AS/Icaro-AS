@@ -18,7 +18,7 @@ Aqui estão algumas das ferramentas e linguagens que utilizo:
 - **Bancos de Dados**: SQL Server, PostgreSQL, MongoDB, Redis.
 
 ---
-
+<!--
 ## 📂 Repositórios em Destaque
 
 🔹 [**Nome do Projeto 1**](#)  
@@ -29,7 +29,7 @@ Descrição breve do projeto, como objetivos e impacto.
 
 🔹 [**Nome do Projeto 3**](#)  
 Descrição breve do projeto, como objetivos e impacto.  
-
+-->
 ---
 
 ## 🌱 O que estou aprendendo agora?
