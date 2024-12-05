@@ -10,11 +10,11 @@ Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar sol
 
 Aqui estão algumas das ferramentas e linguagens que utilizo:
 
-- **Java**: Especialista em desenvolvimento backend utilizando frameworks como Spring Boot, com foco em arquitetura robusta e escalável.
+- **Java**: Desenvolvimento backend utilizando frameworks como Spring Boot, com foco em boas práticas e escalabilidade.
 - **Python**: Experiência com Flask e FastAPI, criando APIs RESTful e pipelines de dados otimizados.
 - **Go**: Apaixonado por desenvolver sistemas altamente performáticos e concorrentes com Go.
 - **Node.js**: Desenvolvimento de APIs, microsserviços e integrações eficientes com Express.js e Nest.js.
-- **Cloud e Infraestrutura**: AWS, Docker, Kubernetes, Terraform.
+- **Cloud e Infraestrutura**: AWS, Docker, Terraform, Ansible.
 - **Bancos de Dados**: SQL Server, PostgreSQL, MongoDB, Redis.
 
 ---
@@ -35,12 +35,12 @@ Descrição breve do projeto, como objetivos e impacto.
 ## 🌱 O que estou aprendendo agora?
 
 - Arquitetura de microsserviços com foco em escalabilidade e resiliência.
-- Ferramentas DevOps para CI/CD e automação de processos.
-- Estudos avançados em Clean Code e S.O.L.I.D.
+- Kubernetes.
+- Machine Learning at BairesDev.
 
 ---
 
 ## 📫 Vamos nos conectar!
 
-- **LinkedIn**: [linkedin.com/in/seu-perfil](#)
+- **LinkedIn**: https://www.linkedin.com/in/icaro-alencar/
 - **Email**: ias_epf@hotmail.com
