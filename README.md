@@ -1,6 +1,6 @@
 # 👋 Oi! Eu sou o Ícaro! 😃
 
-### 💻 Engenheiro/Desenvolvedor de Software | Entusiasta por Tecnologia
+### 💻 Engenheiro/Desenvolvedor Fullstack | Entusiasta por Tecnologia
 
 Bem-vindo ao meu perfil no GitHub! Sou um desenvolvedor apaixonado por criar soluções escaláveis e eficientes, com experiência em diversas tecnologias modernas. Adoro explorar novos desafios e colaborar em projetos inovadores que impactam positivamente o mundo.
 
